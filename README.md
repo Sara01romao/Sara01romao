@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 # Sara Romão
 
-🌱 I’m currently learning ...
