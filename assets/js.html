@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<!-- saved from url=(0020)https://devicon.dev/ -->
+<html class="no-js"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>DEVICON | All programming languages and development tools related icons font</title>
+  <meta name="description" content="devicon aims to gather all logos representing development languages and tools in one font.">
+  <!-- <meta name="viewport" content="width=device-width"> -->
+  <link rel="icon" type="image/x-icon" href="https://devicon.dev/logos/favicon.ico" sizes="196x196">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="https://devicon.dev/logos/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://devicon.dev/logos/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://devicon.dev/logos/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://devicon.dev/logos/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://devicon.dev/logos/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://devicon.dev/logos/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://devicon.dev/logos/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://devicon.dev/logos/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://devicon.dev/logos/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="https://devicon.dev/logos/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://devicon.dev/logos/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="https://devicon.dev/logos/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="https://devicon.dev/logos/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="https://devicon.dev/manifest.json">
+  <link rel="mask-icon" href="https://devicon.dev/logos/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="./logos/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="./js_files/devicon.min.css">
+  <link rel="stylesheet" href="./js_files/style.css">
+<script async="" src="./js_files/analytics.js"></script><script data-dapp-detection="">!function(){let e=!1;function n(){if(!e){const n=document.createElement("meta");n.name="dapp-detected",document.head.appendChild(n),e=!0}}if(window.hasOwnProperty("ethereum")){if(window.__disableDappDetectionInsertion=!0,void 0===window.ethereum)return;n()}else{var t=window.ethereum;Object.defineProperty(window,"ethereum",{configurable:!0,enumerable:!1,set:function(e){window.__disableDappDetectionInsertion||n(),t=e},get:function(){if(!window.__disableDappDetectionInsertion){const e=arguments.callee;e&&e.caller&&e.caller.toString&&-1!==e.caller.toString().indexOf("getOwnPropertyNames")||n()}return t}})}}();</script></head>
+
+<body ng-app="devicon" ng-controller="IconListCtrl" class="ng-scope" cz-shortcut-listen="true">
+  <!-- ngIf: latestReleaseTagging --><link rel="stylesheet" ng-if="latestReleaseTagging" ng-href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" class="ng-scope" href="./js_files/devicon.min(1).css"><!-- end ngIf: latestReleaseTagging -->
+
+  <!--[if lt IE 7]>
+  <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+  <![endif]-->
+
+  <div class="borders"></div>
+
+  <div class="container">
+    <header class="clearfix">
+      <h1>Devicon <span><a href="https://github.com/devicons/devicon/releases" class="ng-binding">v2.12.0</a></span></h1>
+      <h2>Devicon is a set of icons representing programming languages, designing &amp; development tools. You can use it as a font or directly copy/paste the svg code into your project.</h2>
+      <h3>(Super) Quick Setup</h3>
+      <h5>First select an icon on the right, then select the version below and copy/paste the code into your project.</h5>
+      <ul>
+        <li>
+          <h4>Font versions</h4>
+          <ul class="icons-list">
+            <!-- ngRepeat: fontVersion in selectedIcon.font --><div ng-repeat="fontVersion in selectedIcon.font" class="ng-scope">
+              <li ng-click="selectFont(fontVersion, false, $index)" ng-class="{&#39;selected-version&#39; : ($index == selectedFontIndex &amp;&amp; !colored)}" class="">
+                <i class="devicon-javascript-plain"></i>
+              </li>
+              <li ng-click="selectFont(fontVersion, true, $index)" ng-class="{&#39;selected-version&#39; : ($index == selectedFontIndex &amp;&amp; colored)}" class="selected-version">
+                <i class="colored devicon-javascript-plain"></i>
+              </li>
+            </div><!-- end ngRepeat: fontVersion in selectedIcon.font -->
+          </ul>
+          <div class="cde ng-binding">
+            <div class="cde-com">&lt;!-- in your header --&gt;</div>
+            &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"&gt;<br>
+            <br>
+            <div class="cde-com">&lt;!-- in your body --&gt;</div>
+            &lt;i class="devicon-javascript-plain<!-- ngIf: colored --><span ng-if="colored" class="ng-scope"> colored</span><!-- end ngIf: colored -->"&gt;&lt;/i&gt;<br>
+          </div>
+        </li>
+        <li>
+          <h4>SVG versions</h4>
+          <ul class="icons-list">
+            <!-- ngRepeat: svgVersion in selectedIcon.svg --><li ng-repeat="svgVersion in selectedIcon.svg" ng-click="selectSvg(svgVersion, $index)" ng-class="{&#39;selected-version&#39; : $index == selectedSvgIndex}" class="ng-scope selected-version">
+              <img ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" src="./js_files/javascript-original.svg">
+            </li><!-- end ngRepeat: svgVersion in selectedIcon.svg --><li ng-repeat="svgVersion in selectedIcon.svg" ng-click="selectSvg(svgVersion, $index)" ng-class="{&#39;selected-version&#39; : $index == selectedSvgIndex}" class="ng-scope">
+              <img ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" src="./js_files/javascript-plain.svg">
+            </li><!-- end ngRepeat: svgVersion in selectedIcon.svg -->
+          </ul>
+          <div class="cde">
+          &lt;svg viewBox="0 0 128 128"&gt;<br>
+          <div class="cde-ind ng-binding">&lt;path fill="#F0DB4F" d="M1.408 1.408h125.184v125.185H1.408z"&gt;&lt;/path&gt;&lt;path fill="#323330" d="M116.347 96.736c-.917-5.711-4.641-10.508-15.672-14.981-3.832-1.761-8.104-3.022-9.377-5.926-.452-1.69-.512-2.642-.226-3.665.821-3.32 4.784-4.355 7.925-3.403 2.023.678 3.938 2.237 5.093 4.724 5.402-3.498 5.391-3.475 9.163-5.879-1.381-2.141-2.118-3.129-3.022-4.045-3.249-3.629-7.676-5.498-14.756-5.355l-3.688.477c-3.534.893-6.902 2.748-8.877 5.235-5.926 6.724-4.236 18.492 2.975 23.335 7.104 5.332 17.54 6.545 18.873 11.531 1.297 6.104-4.486 8.08-10.234 7.378-4.236-.881-6.592-3.034-9.139-6.949-4.688 2.713-4.688 2.713-9.508 5.485 1.143 2.499 2.344 3.63 4.26 5.795 9.068 9.198 31.76 8.746 35.83-5.176.165-.478 1.261-3.666.38-8.581zM69.462 58.943H57.753l-.048 30.272c0 6.438.333 12.34-.714 14.149-1.713 3.558-6.152 3.117-8.175 2.427-2.059-1.012-3.106-2.451-4.319-4.485-.333-.584-.583-1.036-.667-1.071l-9.52 5.83c1.583 3.249 3.915 6.069 6.902 7.901 4.462 2.678 10.459 3.499 16.731 2.059 4.082-1.189 7.604-3.652 9.448-7.401 2.666-4.915 2.094-10.864 2.07-17.444.06-10.735.001-21.468.001-32.237z"&gt;&lt;/path&gt;</div>
+          &lt;/svg&gt;
+          </div>
+        </li>
+      </ul>
+
+      <h3>GitHub repository</h3>
+      <h5>If you prefer a local install, you can download all the files on the GitHub repository.</h5>
+      <p class="download">
+        <a href="https://github.com/devicons/devicon/archive/master.zip"><i class="devicon-github-original"></i>DOWNLOAD</a>
+      </p>
+      <p class="download">
+        <a href="https://github.com/devicons/devicon/" target="blank"><i class="devicon-github-original"></i>GO TO THE REPOSITORY</a>
+      </p>
+      <p class="download">
+        <a href="https://github.com/devicons/devicon/blob/master/CONTRIBUTING.md" target="blank"><i class="devicon-github-original"></i>CONTRIBUTE</a>
+      </p>
+      <p class="download">
+        <a href="https://discord.gg/hScy8KWACQ" target="blank"><i class="discord-logo"></i>DISCORD SERVER</a>
+      </p>
+
+      <p class="footer">
+        Originally created by <a href="https://github.com/konpa">Konpa</a> (under <a href="https://github.com/devicons/devicon/blob/master/LICENSE">MIT License</a>) and <br>
+        supported by various <a href="https://github.com/devicons/devicon/graphs/contributors">contributors</a>.<br>
+        Copyright © 2015 <a href="https://github.com/konpa">Konpa</a><br>
+        <br>
+        Final font build with <a href="https://icomoon.io/">Icomoon app</a><br>
+        <br>
+        <i>All product names, logos, and brandsare property of their respective owners.  All company, product and service names used in this website are for identification purposes only.  Use of these names, logos, and brands does not imply endorsement.</i>
+      </p>
+    </header>
+
+    <div class="main">
+
+      <div class="search">
+        <input type="text" placeholder="Search for icons" ng-model="search" class="ng-valid ng-dirty">
+      </div>
+
+      <ul class="cbp-ig-grid">
+        <!-- ngRepeat: icon in icons | filter:search --><li ng-repeat="icon in icons | filter:search" class="ng-scope">
+          <span ng-class="{&#39;selected&#39;: icon.selected}" ng-click="selectIcon(icon)">
+            <i class="cbp-ig-icon devicon-java-plain"></i>
+            <h3 class="cbp-ig-title ng-binding">java</h3>
+          </span>
+        </li><!-- end ngRepeat: icon in icons | filter:search --><li ng-repeat="icon in icons | filter:search" class="ng-scope">
+          <span ng-class="{&#39;selected&#39;: icon.selected}" ng-click="selectIcon(icon)">
+            <i class="cbp-ig-icon devicon-javascript-plain"></i>
+            <h3 class="cbp-ig-title ng-binding">javascript</h3>
+          </span>
+        </li><!-- end ngRepeat: icon in icons | filter:search -->
+      </ul>
+    </div>
+  </div>
+
+  <script src="./js_files/angular.min.js"></script>
+  <script src="./js_files/angular-sanitize.min.js"></script>
+  <script src="./js_files/angular-animate.min.js"></script>
+  <script src="./js_files/script.js"></script>
+
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-45588276-4', 'devicon.fr');
+    ga('send', 'pageview');
+  </script>
+
+
+
+</body></html>
