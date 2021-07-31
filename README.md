@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 
 ## Tecnologias
-
+<div>
+  <img src="assets/reactjs.svg" heght="50px" width="50px" />
+   
+</div>
 
