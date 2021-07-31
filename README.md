@@ -17,9 +17,33 @@ Here are some ideas to get you started:
 <img max-width="auto" height="auto" src="assets/bg-banner.png"/>
 
 
-## Tecnologias
-<div>
-  <img src="assets/reactjs.svg" heght="50px" width="50px" />
-   
+## Tecnologias e Ferramentas
+
+<div >
+   &emsp;
+  <img src="assets/html.svg" heght="40px" width="40px" />
+   &nbsp;       
+  <img src="assets/css3.svg" heght="40px" width="40px" margin-left="50px"/>
+  &nbsp;
+  <img src="assets/bootstrap.svg" heght="40px" width="40px" />
+  &nbsp;  
+  
+  <img src="assets/js.svg" heght="40px" width="40px" />
+   &nbsp;  
+  <img src="assets/reactjs.svg" heght="40px" width="40px" />
+  &nbsp;  
+  <img src="assets/figma.svg" heght="40px" width="40px" />
+ 
+  
 </div>
+
+## Redes Sociais
+<a href="https://www.linkedin.com/in/sara-rom%C3%A3o-abbb8917b/"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+
+
+
 
