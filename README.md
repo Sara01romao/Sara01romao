@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img max-width="auto" height="auto" src="assets/bg-banner.png"/>
-
-
-
+# Olá! Eu sou a Sara Romão
 <a href="https://sara01romao.github.io/portfolio/"  target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
@@ -26,36 +23,38 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
  
+<br>
+
+<br>
+<br>
 
 
-    
-    
-   
+![Sara01romao GitHub stats](https://github-readme-stats.vercel.app/api?username=sara01romao&show_icons=true&theme=dracula)
+
   
 
-## Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
+<hr>
 
 <div >
    &emsp;
-  <img src="assets/html.svg" heght="40px" width="40px" />
+  <img src="assets/html.svg" heght="30px" width="30px" />
    &nbsp;       
-  <img src="assets/css3.svg" heght="40px" width="40px" margin-left="50px"/>
+  <img src="assets/css3.svg" heght="30px" width="30px" margin-left="50px"/>
   &nbsp;
-  <img src="assets/bootstrap.svg" heght="40px" width="40px" />
+  <img src="assets/bootstrap.svg" heght="30px" width="30px" />
   &nbsp;  
   
-  <img src="assets/js.svg" heght="40px" width="40px" />
+  <img src="assets/js.svg" heght="30px" width="30px" />
    &nbsp;  
-  <img src="assets/reactjs.svg" heght="40px" width="40px" />
+  <img src="assets/reactjs.svg" heght="30px" width="30px" />
   &nbsp;  
-  <img src="assets/figma.svg" heght="40px" width="40px" />
+  <img src="assets/figma.svg" heght="30px" width="30px" />
  
   
 </div>
 
 
-
- 
 
 
    
