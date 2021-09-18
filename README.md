@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <br>
 
 
-![Sara01romao GitHub stats](https://github-readme-stats.vercel.app/api?username=sara01romao&show_icons=true&theme=dracula)
 
-  
+  ![Sara01romao](https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact)
+
 
 ### Tecnologias e Ferramentas
 <hr>
