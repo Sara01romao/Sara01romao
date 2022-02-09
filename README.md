@@ -25,12 +25,7 @@ Here are some ideas to get you started:
  
 <br>
 
-<br>
-<br>
 
-
-
-  ![Sara01romao](https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact)
 
 
 ### Tecnologias e Ferramentas
