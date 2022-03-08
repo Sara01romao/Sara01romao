@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 
 ### Tecnologias e Ferramentas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact)](https://github.com/sara01romao/github-readme-stats)
+
+ 
+
+
+
 <hr>
 
 <div >
@@ -48,14 +54,6 @@ Here are some ideas to get you started:
  
   
 </div>
-
-
-
-
-   
-
- 
-
 
 
 
