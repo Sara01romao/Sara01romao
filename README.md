@@ -6,11 +6,11 @@
 
 
 # Olá ! :wave:
-Eu sou a <strong> Sara Romão </strong>
+## Eu sou a <em> Sara Romão </em>
 
 <div>
   
-- 💻 Front-End Developer Jr
+- 💻 Desenvolvedora Front-End Jr
 - :woman_technologist: Estudante de TI
 
   
@@ -32,7 +32,7 @@ Eu sou a <strong> Sara Romão </strong>
 
 ### Tecnologias e Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact)](https://github.com/sara01romao/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact)](https://github.com/sara01romao/github-readme-stats) -->
 
 <hr>
 
