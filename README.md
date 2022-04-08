@@ -10,7 +10,7 @@
 
 <div>
   
-- 💻 Desenvolvedora Front-End Jr
+- 💻 Desenvolvedora Front-End 
 - :woman_technologist: Estudante de TI
 
   
