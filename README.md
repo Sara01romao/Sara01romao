@@ -5,12 +5,14 @@
 
 
 
-# Olá ! :wave:
-## Eu sou a <em> Sara Romão, Desenvolvedora Front-end</em>
-
-<div>
+# Olá, Eu sou a Sara Romão :wave: <br> <em>  Desenvolvedora Front-end</em>
   
-:woman_technologist: Dev skills: <br>
+ <img src="https://user-images.githubusercontent.com/46323667/167326590-70c1ede5-df9c-4197-a048-cb89effd6e01.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Ilustração notebook">
+  
+<div>
+ 
+  
+:woman_technologist: Dev skills: <br><br>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,9 +20,10 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
-
   
-:hammer_and_wrench: Dev Tools: <br>
+
+
+:hammer_and_wrench: Dev Tools: <br><br>
   ![Figma](https://img.shields.io/badge/figma-ba68c8.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  <hr>
