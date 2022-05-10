@@ -13,14 +13,14 @@
 <div>
  
   
-:woman_technologist: Dev skills: <br>
+:woman_technologist: Dev skills: 
   - HTML5, CSS, Javascript, Bootstrap, Reactjs e PHP
  
-  <br>
 
-
-:hammer_and_wrench: Dev Tools: <br>
-  - Git e Figma
+    
+:hammer_and_wrench: Dev Tools: 
+ -  Git e Figma
+  
  <hr>
   
   💻  Portfolio / Contact: <br>
