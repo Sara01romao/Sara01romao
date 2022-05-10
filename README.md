@@ -19,7 +19,7 @@
 
 
 :hammer_and_wrench: Dev Tools: <br>
-  - Git, Figma
+  - Git e Figma
  <hr>
   
   💻  Portfolio / Contact: <br>
