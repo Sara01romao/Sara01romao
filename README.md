@@ -5,9 +5,10 @@
 
 
 
+
 ## Olá, Eu sou a Sara Romão :wave: <br> <em>  Desenvolvedora Front-end</em>
   
-<!--  <img src="https://user-images.githubusercontent.com/46323667/167326590-70c1ede5-df9c-4197-a048-cb89effd6e01.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Ilustração notebook"> -->
+ <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" max-width="300px" width="400px" align="right" alt="Ilustração notebook">
   
 <div>
  
