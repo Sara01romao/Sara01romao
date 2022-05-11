@@ -13,13 +13,11 @@
 <div>
  
   
-:woman_technologist: Dev skills: 
-  - HTML5, CSS, Javascript, Bootstrap, Reactjs e PHP
+:woman_technologist: Dev skills:  HTML5, CSS, Javascript, Bootstrap, Reactjs e PHP
  
 
     
-:hammer_and_wrench: Dev Tools: 
- -  Git e Figma
+:hammer_and_wrench: Dev Tools: Git e Figma
   
  <hr>
   
