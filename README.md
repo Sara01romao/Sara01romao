@@ -6,7 +6,7 @@
 
 
 
-## Olá, :wave:
+## Olá  :wave:
 ### Eu sou a Sara Romão  <em>   Front-end Developer</em>
   
  <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" max-width="300px" width="400px" align="right" alt="Ilustração notebook">
