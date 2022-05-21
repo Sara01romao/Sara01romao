@@ -9,7 +9,12 @@
 ## Olá  :wave:
 ### Eu sou a Sara Romão  <em>   Front-end Developer</em>
   
- <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" max-width="300px" width="400px" align="right" alt="Ilustração notebook">
+ <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" align="right" alt="Ilustração notebook"/>
+ 
+ 
+
+ <br>
+
   
 <div>
  
@@ -19,6 +24,12 @@
 
     
 :hammer_and_wrench: Dev Tools:<strong> Git e Figma</strong>
+  <br>
+   <a href="https://github.com/Sara01romao">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact"  width="400px"   alt="Most Used       Languages" />
+
+ </a>
   
  <hr>
   
@@ -31,12 +42,16 @@
     <a href="https://www.linkedin.com/in/sara-rom%C3%A3o-abbb8917b/"  target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-     </div>
+     
  </div>
  
 <br>
 
 <img src="https://badges.krynn.dev/email?address=sara-romao.live.com">
+
+
+
+</div>
 
 
 
