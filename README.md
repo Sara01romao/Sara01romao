@@ -19,7 +19,7 @@
 :hammer_and_wrench: Dev Tools:<strong> Git e Figma</strong>
   <br>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true&theme=dark"  width="400px"  alt="Most Used Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true"  width="400px"  alt="Most Used Languages" />
 
    
   
