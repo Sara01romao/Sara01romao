@@ -3,33 +3,25 @@
 <!--
 **Sara01romao/Sara01romao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
+<!--  <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" align="right" alt="Ilustração notebook"/>
+  -->
 
 
 ## Olá  :wave:
 ### Eu sou a Sara Romão  <em>   Front-end Developer</em>
   
- <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" align="right" alt="Ilustração notebook"/>
- 
- 
+<br>
 
- <br>
-
-  
 <div>
  
-  
 :woman_technologist: Dev skills:  <strong>HTML5, CSS, Javascript, Bootstrap, Reactjs e PHP</strong>
- 
-
-    
+  
 :hammer_and_wrench: Dev Tools:<strong> Git e Figma</strong>
   <br>
-   <a href="https://github.com/Sara01romao">
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true&theme=dark"  width="400px"  alt="Most Used Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact"  width="400px"   alt="Most Used       Languages" />
-
- </a>
+   
   
  <hr>
   
