@@ -3,7 +3,7 @@
 <!--
 **Sara01romao/Sara01romao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
- <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" align="right" alt="Ilustração notebook"/>
+ <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="250px" align="right" alt="Ilustração notebook"/>
  
 
 
