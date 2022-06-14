@@ -3,8 +3,8 @@
 <!--
 **Sara01romao/Sara01romao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--  <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" align="right" alt="Ilustração notebook"/>
-  -->
+ <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="300px" align="right" alt="Ilustração notebook"/>
+ 
 
 
 ## Olá  :wave:
@@ -19,8 +19,8 @@
 :hammer_and_wrench: Dev Tools:<strong> Git e Figma</strong>
   <br>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true"  width="400px"  alt="Most Used Languages" />
-
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true"  width="400px"  alt="Most Used Languages" />
+ -->
    
   
  <hr>
@@ -34,12 +34,17 @@
     <a href="https://www.linkedin.com/in/sara-rom%C3%A3o-abbb8917b/"  target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp;
+     <a href="mailto:sara-romao@live.com"  target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    
+    
      
  </div>
  
 <br>
 
-<img src="https://badges.krynn.dev/email?address=sara-romao.live.com">
 
 
 
