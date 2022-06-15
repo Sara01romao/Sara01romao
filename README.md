@@ -2,8 +2,8 @@
 
 <!--
 **Sara01romao/Sara01romao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
- <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="250px" max-width="300px" align="right" alt="Ilustração notebook"/>
+<!-- 
+ <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="250px" max-width="300px" align="right" alt="Ilustração notebook"/> -->
  
 
 
@@ -19,8 +19,8 @@
 :hammer_and_wrench: Dev Tools:<strong> Git e Figma</strong>
   <br>
  
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true"  width="400px"  alt="Most Used Languages" />
- -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara01romao&layout=compact&show_icons=true"  width="400px"  alt="Most Used Languages" />
+
    
   
  <hr>
