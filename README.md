@@ -29,7 +29,7 @@
   💻  Portfolio / Contact: <br>
   <div style="margin-top: 10px">
     <a href="https://sara01romao.github.io/portfolio/"  target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=green" />
     </a>
     &nbsp;  
     <a href="https://www.linkedin.com/in/sara-rom%C3%A3o-abbb8917b/"  target="_blank">
