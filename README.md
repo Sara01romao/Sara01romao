@@ -14,7 +14,7 @@
 
 <div>
  
-:woman_technologist: Dev skills:  <strong> HTML5, CSS, Javascript, ReactJS e Bootstrap </strong>
+:woman_technologist: Dev skills:  <strong> HTML5, CSS, JavaScript, ReactJS e Bootstrap </strong>
 
   
 :hammer_and_wrench: Dev Tools:<strong> Git e Figma</strong>
