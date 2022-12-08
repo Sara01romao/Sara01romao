@@ -6,18 +6,18 @@
  <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="250px" max-width="300px" align="right" alt="Ilustração notebook"/> -->
  
  
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0AB330&center=true&vCenter=true&width=435&lines=Hello+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <p >
+    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0AB330&center=false&vCenter=false&width=435&lines=Hello+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
   </p>
   
   
-  <h2 align="center">Eu sou a Sara Romão  <em>   Front-end Developer</em></h2>
+  <h2 >Eu sou a Sara Romão  <em>   Front-end Developer</em></h2>
  
 
 
 
- <h3 align="center" >:woman_technologist: Dev skills: </h3>
- <div align="center">
+ <h3  >:woman_technologist: Dev skills: </h3>
+ <div>
  
    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
@@ -32,8 +32,8 @@
  
  
  
- <h3 align="center" >:hammer_and_wrench: Dev Tools:</h3>
- <div align="center">
+ <h3 >:hammer_and_wrench: Dev Tools:</h3>
+ <div >
  
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
    <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" />
@@ -43,7 +43,7 @@
 
 
 <hr>
-<div align="center">
+<div 
   <br>
 <h3>💻  Portfolio / Contact: </h3> 
     
