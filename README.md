@@ -31,6 +31,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-FF79C6?style=flat&labelColor=FF79C6&logo=figma&logoColor=ffffff)
 
 
+
+
+
 <hr>
 
  
@@ -40,15 +43,15 @@
     
   <div style="margin-top: 10px">
     <a href="https://sara01romao.github.io/portfolio/"  target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=green" />
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=green" />
     </a>
     &nbsp;  
     <a href="https://www.linkedin.com/in/sara-rom%C3%A3o-abbb8917b/"  target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
      <a href="mailto:sara-romao@live.com"  target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
     
     
