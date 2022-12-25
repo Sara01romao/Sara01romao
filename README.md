@@ -11,7 +11,7 @@
   </p>
   
   
-  <h2 >Eu sou a Sara Romão  <em>   Front-end Developer</em></h2>
+  <h2 ><em>  Front-end Developer</em></h2>
  
  :woman_technologist: Dev skills:
 
