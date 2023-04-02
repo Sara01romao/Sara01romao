@@ -7,41 +7,30 @@
  
  
   <p >
-    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=ffcb2f&center=false&vCenter=false&width=435&lines=Hello+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=ffcb2f&center=false&vCenter=false&width=435&lines=Hi!+ I'm+ Sara+Romão+%F0%9F%91%8B" alt="Typing SVG" /></a>
   </p>
   
   
-  <h2 ><em>  Front-end Developer</em></h2>
- 
- :woman_technologist: Dev skills:
+  <h2 ><em>Front-end Developer</em></h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+ - :mortar_board: : Software Analysis and Development.
+ 
+ - :woman_technologist:: HTML, CSS, JavaSript, ReactJs and BootStrap.
+
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![BootStrap](https://img.shields.io/badge/-BootStrap-BD93F9?style=flat&labelColor=BD93F9&logo=bootstrap&logoColor=ffffff) 
+![BootStrap](https://img.shields.io/badge/-BootStrap-BD93F9?style=flat&labelColor=BD93F9&logo=bootstrap&logoColor=ffffff)  -->
 <!-- ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff) -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff) -->
 
 
-:hammer_and_wrench: Dev Tools:
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-FF79C6?style=flat&labelColor=FF79C6&logo=figma&logoColor=ffffff)
+- :hammer_and_wrench:: Figma, GIT.
 
-
-
-
-
-<hr>
-
- 
-<div 
-  <br>
-<h3>💻  Portfolio / Contact: </h3> 
-    
-  <div style="margin-top: 10px">
+<div style="margin-top: 10px">
     <a href="https://sara01romao.github.io/portfolio/"  target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=green" />
     </a>
@@ -57,12 +46,26 @@
     
      
  </div>
+
+<!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-FF79C6?style=flat&labelColor=FF79C6&logo=figma&logoColor=ffffff)
+
+ -->
+ 
+<div 
+  <br>
+<h2></h2> 
+    
+  
  
 
 </div>
 
 
 
+ [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara01romao&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+ 
+ 
 
 
 <!-- ![Node](https://img.shields.io/badge/-Node-339933?style=flat&labelColor=339933&logo=nodedotjs&logoColor=ffffff)
