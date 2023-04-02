@@ -7,7 +7,7 @@
  
  
   <p >
-    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=ffcb2f&center=false&vCenter=false&width=435&lines=Hi!+ I'm+ Sara+Romão+%F0%9F%91%8B" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=bd93f9&center=false&vCenter=false&width=435&lines=Hi!+ I'm+ Sara+Romão+%F0%9F%91%8B" alt="Typing SVG" /></a>
   </p>
   
   
