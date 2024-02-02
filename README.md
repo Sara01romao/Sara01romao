@@ -6,10 +6,7 @@
  <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="250px" max-width="300px" align="right" alt="Ilustração notebook"/> -->
  
  
-  <p >
-    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=bd93f9&center=false&vCenter=false&width=435&lines=Hi!+ I'm+ Sara+Romão+%F0%9F%91%8B" alt="Typing SVG" /></a>
-  </p>
-  
+ 
   
   <h2 ><em>Front-end Developer</em></h2>
 
