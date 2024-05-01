@@ -7,9 +7,11 @@
  
  
  
+ 
+  <h2 ><em>Front-end Developer</em> </h2>
   
-  <h2 ><em>Front-end Developer</em></h2>
-
+  ![](https://komarev.com/ghpvc/?username=sara01romao)
+  
  - :mortar_board: : Software Analysis and Development.
  
  - :woman_technologist:: HTML, CSS, JavaSript, ReactJs and BootStrap.
@@ -26,6 +28,9 @@
 
 
 - :hammer_and_wrench:: Figma, GIT.
+
+
+
 
 <div style="margin-top: 10px">
     <a href="https://sara01romao.github.io/portfolio/"  target="_blank">
