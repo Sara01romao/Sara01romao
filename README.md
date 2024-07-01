@@ -13,7 +13,7 @@
 
 <div align='center'>
   <a href="https://sara01romao.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-Website-633bbc?style=flat-square&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfólio-633bbc?style=flat-square&logo=appveyor&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sara-romao/">
     <img src="https://img.shields.io/badge/-Linkedin-633bbc?style=flat-square&logo=Linkedin&logoColor=white" />
