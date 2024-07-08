@@ -5,15 +5,12 @@
 <!-- 
  <img src="https://user-images.githubusercontent.com/46323667/167675818-6774373c-e6b5-48f3-a552-e83413f16680.svg" min-width="250px" max-width="300px" align="right" alt="Ilustração notebook"/> -->
  <h1 ><em>Front-end Developer</em></h1> 
- 
-💻 Ao longo da minha jornada, trabalhei em diversos projetos, aprimorando minhas habilidades técnicas e interpessoais. Minhas principais ferramentas são JavaScript, React, HTML, CSS, Figma e PHP .
+  
+💻 Ao longo da minha jornada, trabalhei em diversos projetos, aprimorando habilidades técnicas e interpessoais. Minhas principais ferramentas são JavaScript, React, HTML, CSS, Figma e PHP.
 
-🧠 Sou criativa e gosto de aprender continuamente. Tenho conhecimentos em Design UX/UI e Marketing e conceitos básicos de negócios, o que me permite resolver problemas reais com soluções que têm mais impacto para o público-alvo.
+🧠 Sou criativa e gosto de aprender continuamente. Tenho conhecimentos em Design UX/UI e Marketing, o que me permite criar soluções melhores para o usuário.
 
-🚀 Estou sempre em busca de novos desafios. Abaixo, você pode conferir meu Portfólio e GitHub , onde compartilho meus projetos. Fique à vontade para conferir !
-
- 
-
+🚀 Estou sempre em busca de novos desafios. Confira meu Portfólio e GitHub para ver meus projetos!
 
 
 <div >
