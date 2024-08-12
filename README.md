@@ -14,11 +14,14 @@
 
 
 <div >
-<!--   <a href="https://sara01romao.github.io/portfolio/">
+  <a href="https://sara01romao.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-633bbc?style=flat-square&logo=appveyor&logoColor=white" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/sara-romao/">
+  </a> 
+  <a href="https://www.linkedin.com/in/sara-romao/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-633bbc?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sararomaodev/shorts" target="_blank">
+    <img src="https://img.shields.io/badge/-Youtube-633bbc?style=flat-square&logo=Youtube&logoColor=white" />
   </a>
 
  
